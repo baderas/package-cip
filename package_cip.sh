@@ -85,7 +85,7 @@ echo "Suggests: " >> "$pkgdir/DEBIAN/control"
 echo "Conflicts: " >> "$pkgdir/DEBIAN/control"
 echo "Description: The VMware vSphere Web Client Plugin" >> "$pkgdir/DEBIAN/control"
 cd "$pwd"
-dpkg-deb -b "$pkgdir" "VMware-ClientIntegrationPlugin-${majverf}.${bundle_arch}.deb"
+dpkg-deb -b "$pkgdir" "VMware-ClientIntegrationPlugin-${majverf}-${bundle_arch}.deb"
 rm -rf "$srcdir"
 rm -rf "$pkgdir"
 exit 0
