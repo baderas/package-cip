@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script packages VMware Client Integration Plugin for Debian
-# Tested with Version CIP Version 5.5.0 x86_64 on Debian Jessie
+# Tested with Version CIP version 5.5.0 x86_64 on Debian Jessie
 
 # Thx to ReNoM <renom@list.ru> for his Archlinux AUR PKGBUILD
 # https://aur.archlinux.org/packages/vm/vmware-vsphere-web-client-plugin/PKGBUILD
