@@ -5,4 +5,4 @@ You need to edit $srcdir, $pkgdir and $bundle inside package_cip.sh before you c
 
 Only tested on Debian Jessie amd64 with CIP Version 5.5.0 x86_64.
 
-Warning: This worked for me but is kind of raw and unpolished. Use at your own risk!
+Warning: This script worked for me but is kind of raw and unpolished. Use at your own risk!
