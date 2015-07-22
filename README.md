@@ -17,4 +17,4 @@ git clone https://github.com/baderas/package-cip.git<br />
 cd package-cip<br />
 edit package_cip.sh and fix $srcdir, $pkgdir and $bundle <br />
 ./package_cip.sh<br />
-sudo dpkg -i VMware-ClientIntegrationPlugin-5.5.0-x86_64.deb<br />
+sudo dpkg -i VMware-ClientIntegrationPlugin-X.Y.Z-ARCH.deb<br />
