@@ -1,4 +1,4 @@
-# package-cip
+# package_cip
 This script packages VMware Client Integration Plugin for Debian<br />
 
 You need to edit $srcdir, $pkgdir and $bundle inside package_cip.sh before you can run ./package_cip.sh.<br />
